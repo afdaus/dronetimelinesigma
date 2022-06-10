@@ -1,0 +1,16 @@
+{
+    "/home/daus/Documents/TA/dronetimeline": {
+        "timelines": {
+            "Timeline": [
+                "datetime",
+                "timestamp_desc",
+                "source",
+                "event",
+                "message",
+                "parser",
+                "display_name",
+                "tag"
+            ]
+        }
+    }
+}
